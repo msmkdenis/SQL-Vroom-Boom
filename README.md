@@ -1,11 +1,11 @@
 ### Автосалон «Врум-Бум»
 
-Необходимо нормализовать и структурировать существующие сырые данные из файла [cars.csv](https://github.com/msmkdenis/sql-practicum/blob/main/sprint_1/cars.csv).
+Необходимо нормализовать и структурировать существующие сырые данные из файла [cars.csv](https://github.com/msmkdenis/SQL-Vroom-Boom/blob/main/cars.csv).
 
 К полученной БД написать ряд запросов. Результатом должен быть скрипт sql, выполняющийся без ошибок.
 
-Скрипт создания и заполнения таблиц данными на основе файла [cars.csv](https://github.com/msmkdenis/sql-practicum/blob/main/sprint_1/cars.csv), 
-а также запросы (полное решение) доступны в файле [sprint_1.sql](https://github.com/msmkdenis/sql-practicum/blob/main/sprint_1/sprint_1.sql).
+Скрипт создания и заполнения таблиц данными на основе файла [cars.csv](https://github.com/msmkdenis/SQL-Vroom-Boom/blob/main/cars.csv), 
+а также запросы (полное решение) доступны в файле [sprint_1.sql](https://github.com/msmkdenis/SQL-Vroom-Boom/blob/main/sprint_1.sql).
 Ниже приведено решение задач по запросам к БД.
 
 #### Задание 1
